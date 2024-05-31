@@ -1,0 +1,11 @@
+Origin: BVN Repository
+Label: iPhone/iPad-Jailbreak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Apple-Support
+MD5Sum:
+ c827137362052209287f4e60c2c2bab5 1188722 Packages
+ b55f8fd5634db0f51de487e866efffaf 269105 Packages.bz2
